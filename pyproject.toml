@@ -1,0 +1,15 @@
+[project]
+name = "aiot"
+version = "0.1.0"
+description = "AIoT Assignment - Cat-Dog Classification"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "datasets>=3.3.2",
+    "numpy>=1.22,<=1.24.3",
+    "snntorch>=0.9.4",
+    "torch @ https://download.pytorch.org/whl/cu118/torch-2.0.1%2Bcu118-cp310-cp310-win_amd64.whl",
+    "torchvision @ https://download.pytorch.org/whl/cu118/torchvision-0.15.2%2Bcu118-cp310-cp310-win_amd64.whl",
+    "tqdm>=4.67.1",
+    "wandb>=0.19.7",
+]

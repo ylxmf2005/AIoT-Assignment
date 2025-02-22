@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+best_snn_model.pth
+best_model.pth
+Assignment_COMP4436 (1).pdf
+Report_Template_COMP4436 (4).doc
+
+logs/
+wandb/
+
