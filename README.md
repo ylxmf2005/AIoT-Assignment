@@ -12,6 +12,7 @@ This project implements and compares different approaches for cat-dog image clas
 - K-Means Clustering
 - Convolutional Neural Network (CNN)
 - Spiking Neural Network (SNN)
+- Autoencoders
 
 ## Requirements
 
